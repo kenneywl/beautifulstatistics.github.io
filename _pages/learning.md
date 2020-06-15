@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /data-wrangling/
+permalink: /learning/
 title: "Statistical Projects"
 author_profile: true
 header:
