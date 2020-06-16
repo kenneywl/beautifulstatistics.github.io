@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Statistical Projects"
+  - title: "Projects"
     url: /learning/
   - title: "Resources"
     url: /resources/
