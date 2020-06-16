@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: posts
 permalink: /resources/
 title: "Resources"
 author_profile: true
